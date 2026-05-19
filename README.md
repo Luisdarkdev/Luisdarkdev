@@ -10,8 +10,8 @@
 ---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com) 
-[![Website](https://img.shields.io/badge/CubickSoft-🚀-blueviolet?style=for-the-badge)]() 
-[![Email](https://img.shields.io/badge/Contacto-📩-orange?style=for-the-badge)](mailto:contacto@cubicksoft.com)
+[![Website](https://img.shields.io/badge/CubickSoft-🚀-blueviolet?style=for-the-badge)](https://cubicksoft.cloud/) 
+[![Email](https://img.shields.io/badge/Contacto-📩-orange?style=for-the-badge)](mailto:administracion@cubicksoft.cloud)
 
 </div>
 
